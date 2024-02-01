@@ -7,7 +7,7 @@
   <tr align = "center">
     <td><b>주차</td>
     <td><b>개념</b></td>
-    <td><b>제출날짜</td>
+    <td><b>제출일자</td>
     <td><b>코드</td>
   </tr>
       
