@@ -56,5 +56,17 @@
       <a href="https://github.com/2024-Algorithm-Study/Kojoonhwan/blob/joonhwan_problem_solving/4%EC%A3%BC%EC%B0%A8/%EB%A6%AC%EC%BD%94%EC%B3%87%20%EB%A1%9C%EB%B4%87.md">리코쳇 로봇.py</a>
     </td>
   </tr>
-  
+
+  <tr align = "center">
+    <td>5주차</td>
+    <td>
+      <a href="https://www.notion.so/joonk2/DFS-34da018e09bb40658244970e808feafe">DFS</a>
+    </td>
+    <td>2024-02-</td>
+    <td>
+      <a>아직</a>
+    </td>
+  </tr>
+
+ 
 </table>
