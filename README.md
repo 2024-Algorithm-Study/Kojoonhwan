@@ -62,9 +62,9 @@
     <td>
       <a href="https://www.notion.so/joonk2/DFS-34da018e09bb40658244970e808feafe">DFS</a>
     </td>
-    <td>2024-02-</td>
+    <td>2024-02-03 토요일</td>
     <td>
-      <a>아직</a>
+      <a>등대.py</a>
     </td>
   </tr>
 
