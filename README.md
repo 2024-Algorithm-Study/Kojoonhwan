@@ -86,7 +86,6 @@
     </td>
     <td>2024-02-14 수요일</td>
     <td>
-    <td>
       <a href="https://github.com/2024-Algorithm-Study/Kojoonhwan/blob/joonhwan_problem_solving/7%EC%A3%BC%EC%B0%A8/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.md">게임 맵 최단거리.py</a>
     </td>
   </tr>
