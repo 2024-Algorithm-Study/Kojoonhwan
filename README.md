@@ -68,5 +68,15 @@
     </td>
   </tr>
 
+  <tr align = "center">
+    <td>6주차</td>
+    <td>
+      <a>DFS</a>
+    </td>
+    <td>2024-02-14 수요일(기한 못 지킴)</td>
+    <td>
+      <a>등대.py</a>
+    </td>
+  </tr>
  
 </table>
