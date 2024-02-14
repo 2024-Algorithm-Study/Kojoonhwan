@@ -78,5 +78,16 @@
       <a>블록 이동하기.py</a>
     </td>
   </tr>
+
+    <tr align = "center">
+    <td>6주차</td>
+    <td>
+      <a>BFS / DFS</a>
+    </td>
+    <td>2024-02-14 수요일</td>
+    <td>
+      <a>게임 맵 최단거리.py</a>
+    </td>
+  </tr>
  
 </table>
